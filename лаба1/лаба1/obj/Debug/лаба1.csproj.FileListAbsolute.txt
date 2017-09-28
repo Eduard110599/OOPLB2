@@ -1,0 +1,9 @@
+G:\OOP\OOPLB2\лаба1\лаба1\obj\Debug\лаба1.csprojResolveAssemblyReference.cache
+G:\OOP\OOPLB2\лаба1\лаба1\obj\Debug\лаба1.csproj.CoreCompileInputs.cache
+G:\OOP\OOPLB2\лаба1\лаба1\bin\Debug\лаба1.exe.config
+G:\OOP\OOPLB2\лаба1\лаба1\bin\Debug\лаба1.exe
+G:\OOP\OOPLB2\лаба1\лаба1\bin\Debug\лаба1.pdb
+G:\OOP\OOPLB2\лаба1\лаба1\obj\Debug\лаба1.exe
+G:\OOP\OOPLB2\лаба1\лаба1\obj\Debug\лаба1.pdb
+G:\OOP\OOPLB2\лаба1\лаба1\bin\Debug\System.ValueTuple.dll
+G:\OOP\OOPLB2\лаба1\лаба1\bin\Debug\System.ValueTuple.xml
