@@ -1,0 +1,7 @@
+G:\OOP\OOPLB2\лр5\лр5\bin\Debug\лр5.exe.config
+G:\OOP\OOPLB2\лр5\лр5\bin\Debug\лр5.exe
+G:\OOP\OOPLB2\лр5\лр5\bin\Debug\лр5.pdb
+G:\OOP\OOPLB2\лр5\лр5\obj\Debug\лр5.csprojResolveAssemblyReference.cache
+G:\OOP\OOPLB2\лр5\лр5\obj\Debug\лр5.csproj.CoreCompileInputs.cache
+G:\OOP\OOPLB2\лр5\лр5\obj\Debug\лр5.exe
+G:\OOP\OOPLB2\лр5\лр5\obj\Debug\лр5.pdb
